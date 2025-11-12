@@ -3,16 +3,16 @@
 </h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mathusan&color=blueviolet" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Mathusan?label=Followers&style=social" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/Mathusan?label=Stars&style=social" alt="GitHub Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=mathusan0826&color=blueviolet" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/mathusan0826?label=Followers&style=social" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/mathusan0826?label=Stars&style=social" alt="GitHub Stars"/>
 </div>
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mathusan&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R.Mathusan&layout=compact&theme=radical" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mathusan0826&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathusan0826&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
 <h2 align="center">🛠 Technologies & Tools</h2>
